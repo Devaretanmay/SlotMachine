@@ -37,7 +37,7 @@ A modern slot machine game built with React (frontend) and Go (backend), featuri
 ### Installation
 
 1. Clone the repository:bash
-git clone https://github.com/yourusername/golden-vegas-slots.git
+git clone https://github.com/Devaretanmay/SlotMachine.git
 cd golden-vegas-slots
 
 
